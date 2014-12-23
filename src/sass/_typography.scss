@@ -1,0 +1,5 @@
+body {
+  @include font-smoothing; // <- _mixins.scss
+  color: #555;
+  font-family: sans-serif;
+}
